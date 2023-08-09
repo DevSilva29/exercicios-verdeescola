@@ -201,7 +201,7 @@ img {
     margin-left: 14%;
 }
 
-.print1, img {
+.print1, .linkredes, img {
     width: 180px;
     height: auto;
     transition: width 2s, height 2s;
